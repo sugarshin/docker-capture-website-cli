@@ -1,4 +1,4 @@
-FROM sugarshin/puppeteer-base:2.1.1
+FROM sugarshin/puppeteer-base:2.1.1@sha256:34b2c8ef4a233f0cf6f61559dbfba41f90ccfae90a758555cca7e17d457f3776
 
 LABEL maintainer "Shingo Sato <shinsugar@gmail.com>"
 
